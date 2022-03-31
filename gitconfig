@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = quentin_girard@hotmail.com
+	name = Quentin Girard
